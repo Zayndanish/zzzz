@@ -2,12 +2,11 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"                                        
 
-#EXTM3U billed-msg="BUY DI SHOPEE ZAYNZACK"
+#EXTM3U billed-msg="BUY DI ZAYN ZACK"
 
+##############RIA WARNA CITRA PRIMA#############
 
-##############RIA WARNA CITRA PRIMA############
-
-#EXTINF:-1 group-title="WARNA RIA CITRA PRIMA (OFFLINE)" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria 1
+#EXTINF:-1 group-title="WARNA RIA CITRA PRIMA (OFFLINE)" group-logo="Z" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria 1
 http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1018.
 
 
@@ -30,9 +29,9 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott
 
 
 
-################### GV LIVE ASTRO ######################
+################### GV LIVE ASTRO #######################
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="Z" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
@@ -47,7 +46,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 3 (Live Sahaja)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 
-#######################SOOKA TV#################
+#######################SOOKA TV##################
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80", Tayo+
 https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00640-lydnetwork-tayoplus-dash-sooka%2Ffc5c0f91-0841-4617-ae0a-70b09c398b38%2Findex.mpd&streamId=amg00640-lydnetwork-tayoplus-dash-sooka&sessionId=fc5c0f91-0841-4617-ae0a-70b09c398b38
@@ -81,7 +80,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2
 
 
 
-###################### BACKUP ####################
+###################### BACKUP ######################
 
 
 
@@ -176,7 +175,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd  
 
 
-###########################################################################SPORTS###############################################################################
+###########################################################################SPORTS################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -247,7 +246,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro Supersport 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-##########################################################
+###########################################################
 
 #EXTINF:-1 tvg-id="AOTGLive1" ch-number="795" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" ,795 Astro Supersport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -519,7 +518,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
 
-###################################################################ARABIC CHANNEL#################################################################
+###################################################################ARABIC CHANNEL##################################################################
 
 #EXTINF:-1 group-title="ARABIC CHANNEL" tvg-id="arriadia3.mr" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arradia 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
@@ -674,7 +673,7 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="ARABIC CHANNEL",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#############################################################################UNIFI#########################################################################################
+#############################################################################UNIFI##########################################################################################
 
 
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; 335cec8e-5c83-4c93-8f95-2d351ec96ec8; V2246) 
@@ -886,7 +885,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 
 
 
-###############################################################MALAYSIA#####################################################################################################################
+###############################################################MALAYSIA######################################################################################################################
 
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (server 1)
@@ -1180,7 +1179,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/manifest.mpd
 
 
 
-##################################################################BACKUP #######################################################################################################
+##################################################################BACKUP ########################################################################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1566,7 +1565,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 
 
-############################## SINGAPORE #####################################################################################################################################
+############################## SINGAPORE ######################################################################################################################################
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1663,7 +1662,7 @@ https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.m
 
 
 
-####################################################################INDIAN########################################################################################
+####################################################################INDIAN#########################################################################################
 
 
 
@@ -1844,7 +1843,7 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3
 
 
 
-################################################################CHINESE#########################################################################################
+################################################################CHINESE##########################################################################################
 
 
 
@@ -2171,7 +2170,7 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 
 
-#########################################################MOVIES######################################################################################################
+#########################################################MOVIES#######################################################################################################
 
 
 
@@ -2463,7 +2462,7 @@ https://i.mjh.nz/PlutoTV/58af4c093a41ca9d4ecabe96-alt.m3u8
 https://i.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
 
 
-######################################################ANOTHER SPORTS###############################################################
+######################################################ANOTHER SPORTS################################################################
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="ANOTHER SPORTS" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.postimg.cc/G2M5LGds/download-21.png",TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
@@ -2647,7 +2646,7 @@ https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-
 
 
 
-######################################################################################## INDONESIA #######################################################################
+######################################################################################## INDONESIA ########################################################################
 
 
 
@@ -2764,7 +2763,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#######################################################################DOCUMENTARY#####################################################################################
+#######################################################################DOCUMENTARY######################################################################################
 
 
 
@@ -3100,7 +3099,7 @@ http://208.86.19.13:81/14.stream/index.m3u8
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/973365 
 # https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
-######################################################THAILAND###################################################################################################
+######################################################THAILAND####################################################################################################
 
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="THAILAND" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
@@ -3303,7 +3302,7 @@ https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-zabb-channel-1948.jpg" group-title="THAILAND", Zabb Channel
 https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 
-##############################################################################NEWS#####################################################################################
+##############################################################################NEWS######################################################################################
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3431,7 +3430,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
 
 
-########################################################################RADIO########################################################################################
+########################################################################RADIO#########################################################################################
 
 
 
